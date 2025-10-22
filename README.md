@@ -35,9 +35,9 @@ To build a **machine learning model** that can accurately predict the **probabil
 | Metric | Score |
 |---------|-------|
 | ROC-AUC | *~0.77–0.79* |
-| Precision | *~0.65* |
-| Recall | *~0.72* |
-| F1 Score | *~0.68* |
+| Precision | *~0.6111* |
+| Recall | *~0.0199* |
+| F1 Score | *~0.0386* |
 
 *(Scores may vary slightly by run.)*
 
