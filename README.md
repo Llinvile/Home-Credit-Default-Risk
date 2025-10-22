@@ -66,4 +66,4 @@ To build a **machine learning model** that can accurately predict the **probabil
 
 ### 🧑‍💻 Author
 **Llinvile de Jongh**  
-Project| 
+### 🔗 Project Link | [GitHub link here](https://github.com/Llinvile/Home-Credit-Default-Risk/blob/main/Home%20Credit%20Default%20Risk.ipynb)
